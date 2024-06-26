@@ -1,0 +1,156 @@
+2024-06-26 09:09:44,684 - root - INFO - ***** TC_LF_001 *****
+2024-06-26 09:09:56,607 - root - INFO - Login successful, Products page loaded.
+2024-06-26 09:12:13,876 - root - INFO - ***** TC_LF_001 - Started *****
+2024-06-26 09:12:24,513 - root - INFO - Login successful, Products page loaded.
+2024-06-26 09:12:28,732 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 09:15:04,131 - root - INFO - ***** TC_LF_001 - Started *****
+2024-06-26 09:15:15,071 - root - INFO - Login successful, Products page loaded.
+2024-06-26 09:15:19,427 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 10:04:42,548 - root - INFO - ***** TC_LF_001 - Started *****
+2024-06-26 10:04:56,232 - root - INFO - Login successful, Products page loaded.
+2024-06-26 10:05:05,633 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 10:05:33,242 - root - INFO - ***** TC_LF_002 - Started *****
+2024-06-26 10:08:48,459 - root - INFO - ***** TC_LF_002 - Started *****
+2024-06-26 10:12:49,516 - root - INFO - ***** TC_LF_002 - Started *****
+2024-06-26 10:13:01,641 - root - INFO - ********* Login with valid username and invalid password - Test Passed *********
+2024-06-26 10:13:01,642 - root - INFO - ***** TC_LF_002 - Ended *****
+2024-06-26 10:20:25,792 - root - INFO - ***** TC_LF_003 - Started *****
+2024-06-26 10:21:09,165 - root - INFO - ***** TC_LF_003 - Started *****
+2024-06-26 10:21:19,447 - root - INFO - ********* Login with valid username and invalid password - Test Passed *********
+2024-06-26 10:21:19,447 - root - INFO - ***** TC_LF_002 - Ended *****
+2024-06-26 10:34:03,695 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:35:10,915 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:35:44,275 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:36:02,103 - root - ERROR - Error handling Chrome notification: 'bytes' object has no attribute 'alert_is_present'
+2024-06-26 10:36:06,424 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 10:38:09,787 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:38:22,741 - root - ERROR - Error handling Chrome notification: Message: 
+
+2024-06-26 10:38:27,073 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 10:43:02,648 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:43:19,653 - root - ERROR - Error handling Chrome notification: Message: 
+
+2024-06-26 10:43:24,162 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 10:43:59,568 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:44:11,744 - root - ERROR - Error handling Chrome notification: Message: 
+
+2024-06-26 10:44:16,118 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 10:51:21,531 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:51:40,392 - root - ERROR - Error handling Chrome notification: Message: 
+
+2024-06-26 10:51:44,712 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 10:52:01,816 - root - INFO - ***** TC_LF_001 - Started *****
+2024-06-26 10:52:18,556 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:52:35,142 - root - ERROR - Error handling Chrome notification: Message: 
+
+2024-06-26 10:52:56,357 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:53:15,534 - root - INFO - Logged out successfully.
+2024-06-26 10:58:51,442 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 10:59:08,567 - root - INFO - Logged out successfully.
+2024-06-26 10:59:12,875 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 10:59:15,460 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 10:59:30,370 - root - INFO - Logged out successfully.
+2024-06-26 10:59:34,725 - root - INFO - Logged out successfully.
+2024-06-26 10:59:38,959 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:04:42,161 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 11:05:10,875 - root - INFO - Logged out successfully.
+2024-06-26 11:05:21,740 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:06:15,744 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 11:06:49,289 - root - INFO - Logged out successfully.
+2024-06-26 11:09:17,524 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 11:09:34,466 - root - INFO - Logged out successfully.
+2024-06-26 11:10:27,762 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 11:10:50,638 - root - INFO - Logged out successfully.
+2024-06-26 11:10:54,965 - root - INFO - Logged out successfully.
+2024-06-26 11:10:59,198 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:11:13,835 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 11:11:49,092 - root - INFO - Logged out successfully.
+2024-06-26 11:11:53,453 - root - INFO - Logged out successfully.
+2024-06-26 11:11:57,748 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:12:12,113 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 11:12:26,706 - root - INFO - Logged out successfully.
+2024-06-26 11:12:35,089 - root - INFO - Logged out successfully.
+2024-06-26 11:12:39,359 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:13:08,198 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 11:13:30,467 - root - INFO - Logged out successfully.
+2024-06-26 11:13:38,835 - root - INFO - Logged out successfully.
+2024-06-26 11:13:42,970 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:21:39,665 - root - INFO - ***** TC_LG_003 - Started *****
+2024-06-26 11:21:53,431 - root - INFO - Logged out successfully.
+2024-06-26 11:22:05,778 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:25:44,666 - root - INFO - ***** TC_LG_003 - Started *****
+2024-06-26 11:26:01,936 - root - INFO - Logged out successfully.
+2024-06-26 11:26:01,978 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:26:06,170 - root - INFO - User cannot access Products page after logout.
+2024-06-26 11:26:14,465 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:30:02,279 - root - INFO - ***** TC_LG_003 - Started *****
+2024-06-26 11:30:19,004 - root - INFO - Logged out successfully.
+2024-06-26 11:30:19,021 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:32:26,412 - root - INFO - ***** TC_LG_003 - Started *****
+2024-06-26 11:32:41,734 - root - INFO - Logged out successfully.
+2024-06-26 11:32:41,751 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:35:45,717 - root - INFO - ***** TC_LG_003 - Started *****
+2024-06-26 11:36:16,737 - root - INFO - Logged out successfully.
+2024-06-26 11:36:16,899 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:39:53,338 - root - INFO - ***** TC_LG_003 - Started *****
+2024-06-26 11:40:32,373 - root - INFO - Logged out successfully.
+2024-06-26 11:40:32,480 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:40:36,560 - root - INFO - User cannot access Products page after logout.
+2024-06-26 11:40:45,214 - root - INFO - ***** TC_LF_001 - Ended *****
+2024-06-26 11:43:52,619 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 11:44:08,914 - root - INFO - Logged out successfully.
+2024-06-26 11:44:13,183 - root - INFO - ***** TC_LG_001 - Ended *****
+2024-06-26 11:44:15,750 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 11:44:29,187 - root - INFO - Logged out successfully.
+2024-06-26 11:44:29,204 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:44:37,716 - root - INFO - Logged out successfully.
+2024-06-26 11:44:37,733 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:44:42,018 - root - INFO - ***** TC_LG_002 - Ended *****
+2024-06-26 11:44:44,548 - root - INFO - ***** TC_LG_003 - Started *****
+2024-06-26 11:44:59,164 - root - INFO - Logged out successfully.
+2024-06-26 11:44:59,179 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:45:03,226 - root - INFO - User cannot access Products page after logout.
+2024-06-26 11:45:11,434 - root - INFO - ***** TC_LG_003 - Ended *****
+2024-06-26 11:50:19,222 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 11:51:01,205 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 11:51:24,975 - root - INFO - Logged out successfully.
+2024-06-26 11:51:24,990 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:51:31,233 - root - INFO - ***** TC_LG_001 - Ended *****
+2024-06-26 11:54:06,550 - root - INFO - ***** TC_LG_001 - Started *****
+2024-06-26 11:54:38,374 - root - INFO - Logged out successfully.
+2024-06-26 11:54:44,413 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:54:50,826 - root - INFO - ***** TC_LG_001 - Ended *****
+2024-06-26 11:54:53,523 - root - INFO - ***** TC_LG_002 - Started *****
+2024-06-26 11:55:16,784 - root - INFO - Logged out successfully.
+2024-06-26 11:55:16,801 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:55:35,294 - root - INFO - Logged out successfully.
+2024-06-26 11:55:41,332 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:55:47,738 - root - INFO - ***** TC_LG_002 - Ended *****
+2024-06-26 11:55:50,310 - root - INFO - ***** TC_LG_003 - Started *****
+2024-06-26 11:56:14,310 - root - INFO - Logged out successfully.
+2024-06-26 11:56:14,327 - root - INFO - Redirected to Login page after logout.
+2024-06-26 11:56:20,450 - root - INFO - User cannot access Products page after logout.
+2024-06-26 11:56:32,659 - root - INFO - ***** TC_LG_003 - Ended *****
+2024-06-26 12:28:48,334 - selenium.webdriver.common.selenium_manager - WARNING - Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event)
+2024-06-26 12:29:11,539 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 12:30:24,609 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 12:31:38,772 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 12:36:54,076 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 12:43:21,141 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 12:50:10,437 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 12:53:40,091 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 12:54:00,910 - root - INFO - Products sorted A to Z correctly.
+2024-06-26 12:57:51,340 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 12:58:16,725 - root - INFO - Products sorted A to Z correctly.
+2024-06-26 13:00:29,046 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 13:00:51,297 - root - INFO - Products sorted A to Z correctly.
+2024-06-26 13:02:43,467 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 13:03:06,187 - root - INFO - Products sorted A to Z correctly.
+2024-06-26 13:05:51,131 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 13:06:12,327 - root - INFO - Products sorted A to Z correctly.
+2024-06-26 13:06:22,764 - root - INFO - Products sorted Z to A: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2024-06-26 13:10:30,504 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-06-26 13:10:52,235 - root - INFO - Products sorted A to Z: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2024-06-26 13:11:02,650 - root - INFO - Products sorted Z to A: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2024-06-26 13:11:13,083 - root - INFO - Products sorted Price Low to High: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2024-06-26 13:11:23,425 - root - INFO - Products sorted Price High to Low: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
