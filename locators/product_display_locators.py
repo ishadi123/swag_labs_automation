@@ -5,3 +5,4 @@ class ProductDisplayPageLocators:
     option_low_to_high_xpath = "//option[@value='lohi']"
     option_high_to_low_xpath = "//option[@value='hilo']"
     product_name_class_name = "inventory_item_name"
+    product_price_class_name = "inventory_item_price"

@@ -1,0 +1,13 @@
+class AddToCartPageLocators:
+    button_add_to_cart_xpath = "//button[@id='add-to-cart-sauce-labs-backpack']"
+    hyperlink_cart_xpath = "//a[@class='shopping_cart_link']"
+    button_checkout_xpath = "//button[@id='checkout']"
+    input_first_name_xpath = "//input[@id='first-name']"
+    input_last_name_xpath = "//input[@id='last-name']"
+    input_zip_code_xpath = "//input[@id='postal-code']"
+    button_continue_xpath = "//input[@id='continue']"
+    button_finish_xpath = "//button[@id='finish']"
+    heading_thank_you_xpath = "//h2[normalize-space()='Thank you for your order!']"
+    button_back_to_home_xpath = "//button[@id='back-to-products']"
+    button_remove_item_xpath = "//button[@id='remove-sauce-labs-backpack']"
+    span_cart_count_xpath = "//span[@class='shopping_cart_badge']"

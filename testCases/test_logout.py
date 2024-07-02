@@ -1,7 +1,6 @@
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.wait import WebDriverWait
 from self import self
-
 from pageObjects.LoginPage import LoginPage
 from pageObjects.LogoutPage import LogoutPage
 from utilities.custom_logger import LogGen

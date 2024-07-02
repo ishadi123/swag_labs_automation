@@ -2,10 +2,13 @@ from locators.common_locators import CommonLocators
 from locators.login_locators import LoginPageLocators
 from locators.product_display_locators import ProductDisplayPageLocators
 from pageObjects.BasePage import BasePage
+from utilities.custom_logger import LogGen
 from utilities.test_utils import sleep, SHORT_WAIT
 
 
 class ProductDisplayPage(BasePage):
+    logger = LogGen.loggen()
+
     def __init__(self, driver):
         super().__init__(driver)
         self.login_locator = LoginPageLocators()

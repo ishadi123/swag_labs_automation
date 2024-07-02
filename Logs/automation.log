@@ -154,3 +154,62 @@
 2024-06-26 13:11:02,650 - root - INFO - Products sorted Z to A: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
 2024-06-26 13:11:13,083 - root - INFO - Products sorted Price Low to High: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
 2024-06-26 13:11:23,425 - root - INFO - Products sorted Price High to Low: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2024-07-02 20:25:22,696 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-07-02 20:25:51,317 - root - INFO - Products sorted A to Z: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2024-07-02 20:26:01,529 - root - INFO - Products sorted Z to A: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2024-07-02 20:26:11,769 - root - INFO - Products sorted Price Low to High: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2024-07-02 20:26:21,981 - root - INFO - Products sorted Price High to Low: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2024-07-02 21:05:51,883 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-07-02 21:05:51,883 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-07-02 21:12:18,458 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-07-02 21:12:18,458 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-07-02 21:12:55,106 - root - INFO - Products are not sorted A to Z : []
+2024-07-02 21:12:55,106 - root - INFO - Products are not sorted A to Z : []
+2024-07-02 21:13:00,370 - root - INFO - Products are not sorted Z to A : []
+2024-07-02 21:13:00,370 - root - INFO - Products are not sorted Z to A : []
+2024-07-02 21:13:05,548 - root - INFO - Products are not sorted Price Low to High : []
+2024-07-02 21:13:05,548 - root - INFO - Products are not sorted Price Low to High : []
+2024-07-02 21:13:10,721 - root - INFO - Products are not sorted Price High to Low : []
+2024-07-02 21:13:10,721 - root - INFO - Products are not sorted Price High to Low : []
+2024-07-02 21:13:10,721 - root - INFO - ***** TC_PDP_001 - Ended *****
+2024-07-02 21:13:10,721 - root - INFO - ***** TC_PDP_001 - Ended *****
+2024-07-02 22:08:29,808 - root - INFO - 
+2024-07-02 22:53:12,011 - root - INFO - 
+2024-07-02 22:58:34,600 - root - INFO - 
+2024-07-02 22:59:45,687 - root - INFO - ********* Successfully Checkout item - Test Passed *********
+2024-07-02 23:15:20,916 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-07-02 23:15:20,916 - root - INFO - ***** TC_PDP_001 - Started *****
+2024-07-02 23:15:52,829 - root - INFO - Products sorted A to Z: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2024-07-02 23:15:52,829 - root - INFO - Products sorted A to Z: ['Sauce Labs Backpack', 'Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Fleece Jacket', 'Sauce Labs Onesie', 'Test.allTheThings() T-Shirt (Red)']
+2024-07-02 23:16:03,178 - root - INFO - Products sorted Z to A: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2024-07-02 23:16:03,178 - root - INFO - Products sorted Z to A: ['Test.allTheThings() T-Shirt (Red)', 'Sauce Labs Onesie', 'Sauce Labs Fleece Jacket', 'Sauce Labs Bolt T-Shirt', 'Sauce Labs Bike Light', 'Sauce Labs Backpack']
+2024-07-02 23:16:13,590 - root - INFO - Products sorted Price Low to High: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2024-07-02 23:16:13,590 - root - INFO - Products sorted Price Low to High: [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+2024-07-02 23:16:23,902 - root - INFO - Products sorted Price High to Low: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2024-07-02 23:16:23,902 - root - INFO - Products sorted Price High to Low: [49.99, 29.99, 15.99, 15.99, 9.99, 7.99]
+2024-07-02 23:16:23,902 - root - INFO - ***** TC_PDP_001 - Ended *****
+2024-07-02 23:16:23,902 - root - INFO - ***** TC_PDP_001 - Ended *****
+2024-07-02 23:20:10,639 - root - INFO - 
+2024-07-02 23:20:29,642 - root - INFO - Initial cart count: 0
+2024-07-02 23:20:34,829 - root - INFO - Updated cart count: 1
+2024-07-02 23:21:25,952 - root - INFO - ********* Successfully Checkout item - Test Passed *********
+2024-07-02 23:23:44,938 - root - INFO - 
+2024-07-02 23:24:05,068 - root - INFO - Initial cart count: 0
+2024-07-02 23:24:10,206 - root - INFO - Updated cart count: 1
+2024-07-02 23:25:01,318 - root - INFO - ********* Successfully Checkout item - Test Passed *********
+2024-07-02 23:25:11,478 - root - INFO - Initial cart count before remove: 0
+2024-07-02 23:25:16,736 - root - INFO - Updated cart count after remove: 0
+2024-07-02 23:26:41,195 - root - INFO - 
+2024-07-02 23:27:04,843 - root - INFO - Initial cart count: 0
+2024-07-02 23:27:10,002 - root - INFO - Updated cart count: 1
+2024-07-02 23:28:01,224 - root - INFO - ********* Successfully Checkout item - Test Passed *********
+2024-07-02 23:28:11,404 - root - INFO - Initial cart count : 0
+2024-07-02 23:28:16,553 - root - INFO - Updated cart count after add item: 1
+2024-07-02 23:28:16,713 - root - INFO - Updated cart count after remove: 0
+2024-07-02 23:30:04,574 - root - INFO - 
+2024-07-02 23:30:21,457 - root - INFO - Initial cart count: 0
+2024-07-02 23:30:26,608 - root - INFO - Updated cart count: 1
+2024-07-02 23:31:17,801 - root - INFO - ********* Successfully Checkout item - Test Passed *********
+2024-07-02 23:31:27,973 - root - INFO - Initial cart count : 0
+2024-07-02 23:31:33,085 - root - INFO - Updated cart count after add item: 1
+2024-07-02 23:31:33,218 - root - INFO - Updated cart count after remove: 0

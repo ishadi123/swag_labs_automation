@@ -4,6 +4,7 @@ from selenium.webdriver.support import expected_conditions as EC
 
 
 class BasePage:
+
     def __init__(self, driver):
         self.driver = driver
 
@@ -44,5 +45,23 @@ class BasePage:
             element = self.driver.find_element(By.CSS_SELECTOR, locator_value)
         return element
 
+    def get_elements(self, locator_name, locator_value):
+        elements = None
+        if locator_name.endswith("_id"):
+            elements = self.driver.find_elements(By.ID, locator_value)
+        elif locator_name.endswith("_name"):
+            elements = self.driver.find_elements(By.NAME, locator_value)
+        elif locator_name.endswith("_class_name"):
+            elements = self.driver.find_elements(By.CLASS_NAME, locator_value)
+        elif locator_name.endswith("_link_text"):
+            elements = self.driver.find_elements(By.LINK_TEXT, locator_value)
+        elif locator_name.endswith("_xpath"):
+            elements = self.driver.find_elements(By.XPATH, locator_value)
+        elif locator_name.endswith("_css"):
+            elements = self.driver.find_elements(By.CSS_SELECTOR, locator_value)
+        return elements
+
     def quit(self):
         self.driver.quit()
+
+

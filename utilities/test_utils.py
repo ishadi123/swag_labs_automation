@@ -28,3 +28,13 @@ def perform_locked_user_login_assertion(driver, login_page, logger, success_mess
         take_screenshot(driver, ".\\Screenshots\\", "login_locked_user_scr.png")
         logger.error("*********  Login locked user - Test Failed *********")
         assert False
+
+
+def perform_check_out_assertion(driver, add_to_cart_page, logger, success_message):
+    if success_message in add_to_cart_page.retrieve_message_successfully_check_out():
+        assert True
+        logger.info("********* Successfully Checkout item - Test Passed *********")
+    else:
+        take_screenshot(driver, ".\\Screenshots\\", "check_out_scr.png")
+        logger.error("*********  Successfully Checkout item - Test Failed *********")
+        assert False

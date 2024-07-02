@@ -1,9 +1,6 @@
-from selenium.webdriver.support.wait import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
 from locators.common_locators import CommonLocators
 from pageObjects.BasePage import BasePage
 from locators.login_locators import LoginPageLocators
-# from locators.common_locators import CommonLocators
 from utilities.test_utils import sleep, SHORT_WAIT
 
 
@@ -48,4 +45,3 @@ class LoginPage(BasePage):
     def retrieve_error_message_locked_user_login(self):
         return self.retrieve_element_text("error_message_locked_user_xpath",
                                           self.locators.error_message_locked_user_xpath)
-
